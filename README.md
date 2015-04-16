@@ -1,8 +1,9 @@
-Send mail using exchange Linux command line tool
-==
+##Description
+	Send mail using exchange Linux command line tool
+
 
 ##Install: <br>
-	sh configure.sh <br>
-	make		<br>
-	make install	<br>
+	sh configure.sh
+	make		
+	make install	
 	source $userpath/.bashrc
