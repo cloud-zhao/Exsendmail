@@ -15,7 +15,7 @@ echo -n "check install path ...."
 echo -n "${install_path:=/usr/local/mysendmail}"
 echo "\tok"
 
-if [ "$USER" = "root" ]
+if [ "$USER" == "root" ]
 then
 	user=root
 else
